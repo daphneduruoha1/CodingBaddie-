@@ -1,1 +1,3 @@
-# CodingBaddie-
+# CodingBaddie
+
+Note day 2
